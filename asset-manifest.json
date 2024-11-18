@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vallabhpatil777/personal-portfolio-react/static/css/main.c522c892.css",
+    "main.js": "/vallabhpatil777/personal-portfolio-react/static/js/main.84c9a6bd.js",
+    "static/media/Image.png": "/vallabhpatil777/personal-portfolio-react/static/media/Image.d5bd95b7a97e2d3ba1f6.png",
+    "static/media/ml.png": "/vallabhpatil777/personal-portfolio-react/static/media/ml.9da1d9a10d4dbd97d9e5.png",
+    "static/media/webdev.png": "/vallabhpatil777/personal-portfolio-react/static/media/webdev.cfd91233bb6a30af4978.png",
+    "static/media/logo.PNG": "/vallabhpatil777/personal-portfolio-react/static/media/logo.632fe66992ffcd34177a.PNG",
+    "static/media/instagram.png": "/vallabhpatil777/personal-portfolio-react/static/media/instagram.f6c05cecc3987d4107de.png",
+    "static/media/database.png": "/vallabhpatil777/personal-portfolio-react/static/media/database.e2b0fd59c91820f8b098.png",
+    "static/media/soft.png": "/vallabhpatil777/personal-portfolio-react/static/media/soft.8996438b75c835296a00.png",
+    "static/media/tool.png": "/vallabhpatil777/personal-portfolio-react/static/media/tool.db608269d54fc99c1ff1.png",
+    "static/media/prog1.webp": "/vallabhpatil777/personal-portfolio-react/static/media/prog1.5614f634721bb573ddbd.webp",
+    "index.html": "/vallabhpatil777/personal-portfolio-react/index.html",
+    "main.c522c892.css.map": "/vallabhpatil777/personal-portfolio-react/static/css/main.c522c892.css.map",
+    "main.84c9a6bd.js.map": "/vallabhpatil777/personal-portfolio-react/static/js/main.84c9a6bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c522c892.css",
+    "static/js/main.84c9a6bd.js"
+  ]
+}
